@@ -65,7 +65,7 @@
   <li>2022: First Prize – Province-level Science and Engineering Fair for High School Students</li>
   <li>2022: First Prize – STEMPETITION 2022 (School Round)</li>
   <li>2022: Innovation Award – STEMPETITION 2022 (National Final Round)</li>
-  <li>2024: Second Prize – CTF Entrance Test of Information Assurance Club</li>
+  <li>2024: Second Prize – CTF Technical Entrance Test of Information Assurance Club</li>
 </ul>
 
 <h3 align="left">📫 Connect with me:</h3>
