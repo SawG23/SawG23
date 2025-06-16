@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Le Sang</h1>
 
 <p align="center">
-  I'm a second-year Information Assurance student at <strong>FPT University</strong>, currently diving deep into <strong>Digital Forensics</strong> and <strong>Reverse Engineering</strong>.
+  I'm a second-year Information Assurance student at <strong>FPT University HCM</strong>, currently diving deep into <strong>Digital Forensics</strong> and <strong>Reverse Engineering</strong>.
   I'm striving to become a skilled <strong>Blue Team</strong> specialist in the cybersecurity field.
 </p>
 
@@ -13,12 +13,6 @@
 <ul>
   <li>Digital Forensics</li>
   <li>Reverse Engineering</li>
-</ul>
-
-<h3 align="left">💼 Position:</h3>
-<ul>
-  <li>Vice President of Techno Guild Club at FPT High School Can Tho (2022 - 2023)</li>
-  <li>Leader of Technical Team at FPT Information Assurance Club (2025 - Present)</li>
 </ul>
 
 <h3 align="left">🛠 Languages and Tools:</h3>
@@ -55,18 +49,6 @@
   </a>
 </p>
 
-<h3 align="left">🏆 Achievements / Archive:</h3>
-<ul>
-  <li>2021: Second Prize – Province-level Science and Engineering Fair for High School Students</li>
-  <li>2021: Top 1 Technology Award – Vietnam STEAM Challenge 2021 (Team Enterprise)</li>
-  <li>2021: Third Prize – FPTU Can Tho Autonomous Car Competition (Team Enterprise)</li>
-  <li>2021: Finalist – FPT Edu ResFes 2021 (Team Enterprise)</li>
-  <li>2021: Third Prize – TechDay Preliminary Round</li>
-  <li>2022: First Prize – Province-level Science and Engineering Fair for High School Students</li>
-  <li>2022: First Prize – STEMPETITION 2022 (School Round)</li>
-  <li>2022: Innovation Award – STEMPETITION 2022 (National Final Round)</li>
-  <li>2024: Second Prize – CTF Technical Entrance Test of Information Assurance Club</li>
-</ul>
 
 <h3 align="left">📫 Connect with me:</h3>
 <p align="left">
