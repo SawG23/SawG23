@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Le Sang</h1>
 
 <p align="center">
-  I'm a second-year Information Assurance student at <strong>FPT University HCM</strong>, currently diving deep into <strong>Digital Forensics</strong> and <strong>Reverse Engineering</strong>.
+  I'm a third-year Information Assurance student at <strong>FPT University HCM</strong>, currently diving deep into <strong>Digital Forensics</strong> and <strong>Reverse Engineering</strong>.
   I'm striving to become a skilled <strong>Blue Team</strong> specialist in the cybersecurity field.
 </p>
 
